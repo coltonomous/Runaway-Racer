@@ -15,3 +15,7 @@ Python's random library (for randomly spawning the obstacles.
 
 Licensing:
 None. Go ham.
+
+Special Thanks:
+Sentdex, whose stellar YouTube tutorials helped make this possible.
+The amazing Python community for developing such awesome tools!
