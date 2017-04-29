@@ -1,11 +1,6 @@
 import pygame
 import random
 
-""" This is the source code for a game where you control the lateral movements of a racecar
-to avoid obstacles. Car movements are controlled with the side arrow keys. Additionally, the game can
-be paused by pressing the "p" key. All parts of this game were made by me, although I would like to
-specially acknowledge 'sentdex', whose YouTube tutorials helped make this possible."""
-
 ########################################################################################################################
 ############################################# Gamespace Setup ##########################################################
 ########################################################################################################################
